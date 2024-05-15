@@ -15,9 +15,8 @@ Uma funcionalidade chave do aplicativo é a capacidade dos usuários de remover 
 ## 🔖 Image
 
 <h1 align="center">
-    <img width="200" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="assets/images/screenshot_1.svg" />
-
   <div style="display: flex; flex-direction: row; align: center;" align="center">
+    <img width="200" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="assets/images/screenshot_1.svg" />
     <img width="200" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="assets/images/screenshot_2.svg" />
     <img width="200" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="assets/images/screenshot_3.svg" />
   <div>
