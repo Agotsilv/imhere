@@ -12,7 +12,7 @@ Para proporcionar uma visualização organizada e eficiente, os participantes s�
 
 Uma funcionalidade chave do aplicativo é a capacidade dos usuários de remover participantes da lista. Isso é feito ao tocar no botão de remoção associado a cada item da FlatList. Essa característica possibilita uma gestão flexível da lista, permitindo que os usuários eliminem participantes que não são mais relevantes.
 
-## 🔖 Image
+## 📷 Image
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row; align: center;" align="center">
