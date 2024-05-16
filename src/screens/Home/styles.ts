@@ -12,7 +12,13 @@ export const styles = StyleSheet.create({
     fontWeight: "bold",
     marginTop: 48,
   },
-  eventDate: { color: "#6b6b6b", fontSize: 16 },
+  containerSubTitle: {
+    width: "100%",
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  eventDate: { color: "#6b6b6b", fontSize: 16, flex: 1 },
+  eventNumber: { color: "#6b6b6b", fontSize: 16 },
   input: {
     flex: 1,
     height: 56,

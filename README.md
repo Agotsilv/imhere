@@ -27,6 +27,7 @@ Uma funcionalidade chave do aplicativo é a capacidade dos usuários de remover 
 - [ReactNative](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.dev/)
+- [react Native toast message](https://github.com/calintamas/react-native-toast-message/tree/fd3a03ad2b5f447c613bf9eb41c91549528009cb)
 
 ## 🏁 How to run the project
 
