@@ -1,5 +1,5 @@
 <h1 align="center">
-  ImHere - React Native
+  ImHere
 </h1>
 
 ## 🔖 About
